@@ -5,7 +5,7 @@ Simple Label plugin for [Hypervideos.js](https://github.com/Aleix88/Hypervideos)
 </div>
 
 ## Features
-- Display a label when on tag hover.
+- Display a label on tag hover.
 - Add anchor links to the label too.
 - Enable differents labels of differents tags at the same time.
 
@@ -36,7 +36,7 @@ Add this plugin to the hypervideo configuration object with the text paràmeter 
         ]
       };
 
-## Config params
+## Config parameters
 
 | Field | Type | Description |
 | ------------- | ------------- | ------------- |
