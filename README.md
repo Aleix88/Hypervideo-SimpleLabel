@@ -1,6 +1,8 @@
 # Hypervideo-SimpleLabel
 Simple Label plugin for [Hypervideos.js](https://github.com/Aleix88/Hypervideos)
-<img src="https://github.com/Aleix88/Hypervideo-SimpleLabel/blob/main/simple_label.png?raw=true">
+<div>
+    <img src="https://github.com/Aleix88/Hypervideo-SimpleLabel/blob/main/simple_label.png?raw=true">
+</div>
 
 ## Features
 - Display a label when on tag hover.
